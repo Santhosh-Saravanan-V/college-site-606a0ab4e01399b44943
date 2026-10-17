@@ -1,9 +1,6 @@
-{
-  "college": "Sri krishna arts and science college",
-  "code": "606a0ab4e01399b44943",
-  "labs": [
-    { "name": "Computer Lab 1", "opens": "09:00", "closes": "11:00" },
-    { "name": "Physics Lab", "opens": "11:30", "closes": "13:00" },
-    { "name": "Chemistry Lab", "opens": "14:00", "closes": "16:00" }
-  ]
-}
+"labs": [
+  { "name": "Computer Lab 1", "opens": "09:00", "closes": "11:00" },
+  { "name": "Physics Lab", "opens": "11:30", "closes": "13:00" },
+  { "name": "Chemistry Lab", "opens": "14:00", "closes": "16:00" },
+  { "name": "Update 606a0ab4e01399b44943", "opens": "16:30", "closes": "17:30" }
+]
